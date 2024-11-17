@@ -1,4 +1,3 @@
 codigo para hacer una base de batos en mysql, workbench y myadmin de xampp solo copia y pega 
 
-<picture> <img align="right" src="![image](https://github.com/user-attachments/assets/2e27faf8-dd5a-4d0c-9dd2-89b4bb9ac28d)
-" width = 250px></picture>
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
